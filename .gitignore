@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# generated test data files -- regenerate with each test's make_test_file.py
+*.h5
